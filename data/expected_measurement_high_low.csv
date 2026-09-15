@@ -1,0 +1,3 @@
+model,contrast,mean,ci95_low,ci95_high,n_cases_high,n_cases_low,bootstrap_draws,bootstrap_seed,bootstrap_unit
+GPT-OSS,high_alignment_minus_low_alignment,0.14795904680858668,0.049718054328041536,0.25579419516642293,36,65,5000,2026091600,semantic_case_within_alignment_group
+Qwen,high_alignment_minus_low_alignment,-0.016302916161378064,-0.08195004336974032,0.047505654581423064,86,67,5000,2026092600,semantic_case_within_alignment_group

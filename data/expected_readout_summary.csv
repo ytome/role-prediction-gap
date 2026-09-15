@@ -1,0 +1,9 @@
+model,readout,analysis_identity,mean_log_loss,n_cases,n_rows
+GPT-OSS,ML,baseline_reused,0.5341992643187554,194,970
+GPT-OSS,MH,baseline_reused,0.4395052368030492,194,970
+GPT-OSS,MLrbf,reviewer_repair_new,0.5293304552592271,194,970
+GPT-OSS,MHpca4,reviewer_repair_new,0.5316614913467377,194,970
+Qwen,ML,baseline_reused,0.5110438013986712,153,765
+Qwen,MH,baseline_reused,0.4661641705083905,153,765
+Qwen,MLrbf,reviewer_repair_new,0.5069869631640951,153,765
+Qwen,MHpca4,reviewer_repair_new,0.5100393671114503,153,765
